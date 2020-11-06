@@ -1,0 +1,5 @@
+backend:
+  name: git-gateway
+  repo: forpracticeimankimver/jekyll-netlifyCMS
+
+media_folder: "images/uploads"  
