@@ -1,3 +1,4 @@
+Basic-Auth: someuser:somepassword
 backend:
   name: git-gateway
   repo: forpracticeimankimver/jekyll-netlifyCMS
