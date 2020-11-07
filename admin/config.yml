@@ -3,3 +3,15 @@ backend:
   repo: forpracticeimankimver/jekyll-netlifyCMS
 
 media_folder: "images/uploads"  
+
+collections:
+  - name: "Website-settings"
+    label: "Website-settings"
+    files: 
+     - label: "Website-settings"
+       name: "site"
+       file: "_data/site.yml"
+       fields:
+        - label: "Tel"
+          name: "tel"
+          width: "string"
